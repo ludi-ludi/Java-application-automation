@@ -9,7 +9,7 @@ spec:
   source:
     repoURL: https://github.com/ludi-ludi/Java-application-automation.git
     targetRevision: HEAD
-    path: Dev
+    path: .
   destination: 
     server: https://kubernetes.default.svc
     namespace: java-app
