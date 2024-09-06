@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/ludi-ludi/Java-application-automation.git
+    repoURL: https://github.com/ludi-ludi/Java-application.git
     targetRevision: HEAD
     path: .
   destination: 
